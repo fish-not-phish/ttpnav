@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="ttpnav",
-    version="0.1.3",
+    version="0.1.4",
     author="Joseph Fisher",
     author_email="jfisher@cyntel.com",
     description="A package to navigate MITRE ATT&CK data easily.",
